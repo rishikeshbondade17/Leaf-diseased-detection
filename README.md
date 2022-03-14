@@ -30,8 +30,9 @@ Start the server
 ```
 ## Screenshots
 
-<img src="https://github.com/rishikeshbondade17/flower-detection/blob/main/Screenshots/demo.png" alt="Demo1" width="400" height="300">
-<img src="https://github.com/rishikeshbondade17/flower-detection/blob/main/Screenshots/demo2.png" alt="Demo2" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Leaf-diseased-detection/blob/main/Outputs/demo1.png" alt="Demo1" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Leaf-diseased-detection/blob/main/Outputs/demo2.png" alt="Demo2" width="400" height="300">
+<img src="https://github.com/rishikeshbondade17/Leaf-diseased-detection/blob/main/Outputs/demo3.png" alt="Demo3" width="400" height="300">
 
 
 # Hi, I'm Rishikesh! 👋
