@@ -50,4 +50,3 @@ Data Science, Machine Learning, Python, WordPress, Javascript, HTML, CSS...
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishikesh-bondade-06504020b)
 
-[![linkedin](https://www.linkedin.com/in/rishikesh-bondade-06504020b/?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/rishikesh-bondade-06504020b//)
